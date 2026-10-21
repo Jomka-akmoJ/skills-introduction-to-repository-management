@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Jomka-akmoJ
+/src/backend/database.py      @Jomka-akmoJ
+/src/backend/routers/auth.py  @Jomka-akmoJ
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Jomka-akmoJ
